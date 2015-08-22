@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doodle</string>
+
+    <string name="color_picker">Color</string>
+    <string name="brush_picker">Brush</string>
+    <string name="Eraser">Eraser</string>
+    <string name="Shape">Shape</string>
+    <string name="action_settings">Settings</string>
+</resources>
